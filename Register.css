@@ -1,0 +1,40 @@
+body{
+    background-image: url(bg1.jpeg);
+    background-repeat: no-repeat;
+    background-size: 1250px 540px;
+}
+form{
+    border: solid 1px color;
+    width: 450px;
+    background-color: rgba(8, 255, 8, 0.411);
+    padding-left: 10px;
+    margin-left: 10px;
+    margin-top: 1px;
+}
+h1{
+    font-size: 40px;
+    text-align: center;
+    color: blue;
+}
+label{
+    font-size: 22px;
+    font-weight: bold;
+    color: red;
+}
+input{
+    height: 20px;
+    width: 200px;
+    margin-bottom: 5px;
+}
+button{
+    height: 50px ;
+    width: 150px;
+    background-color: green;
+    font-size: 22px;
+    color: blueviolet;
+    border-radius: 20px;
+}
+p{
+    font-size: 22px;
+    font-weight: bold;
+}
